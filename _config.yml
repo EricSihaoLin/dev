@@ -146,5 +146,4 @@ gems:
 - jekyll-paginate
 - jekyll-sitemap
 - jekyll-redirect-from
-- _tag_gen
 plugins_dir: _plugins
