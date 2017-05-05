@@ -21,11 +21,6 @@ defaults:
   values:
     layout: page
     show-avatar: true
-- scope:
-    path: ''
-    type: tags
-  values:
-    layout: tags
 url: https://mainlandhero.github.io
 baseurl: 
 description: Beginning of the End

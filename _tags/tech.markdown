@@ -1,6 +1,0 @@
----
-title: tech
-date: 2017-05-05 15:14:00 -04:00
-color: yellow
----
-
