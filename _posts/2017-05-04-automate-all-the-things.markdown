@@ -9,6 +9,7 @@ bigimg: "/uploads/google-app-scripts-big.png"
 
 Recently, a co-worker of mine exposed me to this wonderful thing called Google Apps Scripts, another one of Google's languages (this one perhaps more useful). It is built on Javascript, and it can access all Google Suite Apps as global natives.
 
+
 ## What is this "Google Apps Scripts" for?
 Well honestly, it's for everything and everyone that uses Google for their daily workflow. If you ever received automated emails for important information within your work, and you find it annoying, then this is for you.
 
