@@ -2,9 +2,6 @@
 title: Just a Thought
 timezone: America/New_York
 collections:
-  blog-tags:
-    title: Blog Tags
-    output: true
   posts:
     title: Posts
     output: true
