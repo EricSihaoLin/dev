@@ -64,7 +64,9 @@ title-separator: "-"
 markdown: kramdown
 highlighter: rouge
 permalink: "/:year-:month-:day-:title/"
-paginate: 5
+paginate: 10
+tag_title_prefix: "Tag&#58; "
+tag_title_suffix: ""
 kramdown:
   input: GFM
 link-tags: true
