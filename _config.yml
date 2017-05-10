@@ -21,7 +21,7 @@ defaults:
   values:
     layout: page
     show-avatar: true
-url: https://mainlandhero.github.io
+url: http://ericslin.com
 baseurl: 
 description: Beginning of the End
 navbar-links:
@@ -66,7 +66,7 @@ highlighter: rouge
 permalink: "/:year-:month-:day-:title/"
 paginate: 10
 tag_title_prefix: 'Tag&#58; '
-tag_title_suffix: ''
+tag_title_suffix: 
 kramdown:
   input: GFM
 link-tags: true
