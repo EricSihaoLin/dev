@@ -26,7 +26,7 @@ baseurl:
 description: Beginning of the End
 navbar-links:
   About Me: aboutme
-  Resume: "/uploads/Lin.Eric_Resume.pdf"
+  Resume: "//uploads/Lin.Eric_Resume.pdf"
   Resources:
   - GitHub Pages: https://pages.github.com/
     Google Apps Scripts: https://developers.google.com/apps-script/
